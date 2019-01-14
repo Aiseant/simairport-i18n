@@ -4,7 +4,7 @@
         <EasyTutorial1>Les bases de SimAirport</EasyTutorial1>
         <Expansion>Large Airport Expansion</Expansion>
         <Baggage>Le système de traitement des baggages</Baggage>
-        <FuelPA>PA Systems and Fuel</FuelPA>
+        <FuelPA>Système d'annonces des vols et fourniture de carburant</FuelPA>
     </Titles>
     <EndTutorial>Fermer</EndTutorial>
     <NextButton>Suivant</NextButton>
@@ -237,35 +237,36 @@ They collect these from baggage carousels, which need to be connected undergroun
         <Finale>Congratulations, you (assuming you didn't skip) have a working baggage system!</Finale>
     </Baggage>
     <FuelPA>
-        <IntroductionTitle>PA Systems and Fuel</IntroductionTitle>
-        <Introduction>Welcome to the second advanced tutorial. This tutorial will help make your large airports operate better.
+        <IntroductionTitle>Système d'annonces des vols et fourniture de carburant</IntroductionTitle>
+        <Introduction>Bienvenue dans ce second tutoriel avancé. 
+        Ce tutoriel vous aidera à améliorer le fonctionnement d'un aéroport de grande taille.
 
-PA systems help stop passengers and flight crew missing their flights, while fuel services will increase the interest of airlines!</Introduction>
-        <PAInfoTitle>Public Announcements</PAInfoTitle>
-        <PAInfo>Firstly, let's get a PA system working. Let's not lose high ratings on confused passengers.
-            
-The PA system is triggered twice during the boarding process. First, when the plane begins boarding. Then, it broadcasts a "last call" about 15-20 minutes before departing.</PAInfo>
-        <TechnologyTitle>Unlocking PA</TechnologyTitle>
-        <Technology>You need to research Technology in order to be able to hire a CTO (Chief Technology Officer) and unlock the PA systems.
+Le système d'annonces des vols aide les passagers et les membres d'équipage à ne pas rater leurs vols, tandis que la fourniture de carburant permettra d'augmenter l'interêt que portent les compagnies aériennes à votre aéroport !</Introduction>
+        <PAInfoTitle>Annonces</PAInfoTitle>
+        <PAInfo>Pour commencer, installons un système d'annonce. Ce serait dommage que les passagers égarés fassent baisser les notes de l'aéroport.
 
-While you are waiting for it to research, you can build an office for your future CTO. During the tutorial, research is much faster than normal!</Technology>
-        <TechnologyObjective>Research Technology in the research screen.</TechnologyObjective>
-        <CTO>Once you have a CTO and an office, you will be able to unlock PA systems.</CTO>
-        <CTOObjective>Hire a CTO and make sure that they have an office.</CTOObjective>
-        <SpeakersTitle>Building the PA System</SpeakersTitle>
-        <Speakers>Speakers relay announcements across the terminal. Passengers need to be close to a speaker, and in the direction of a speaker, to hear it.
+Le système émet deux annonces pendant la durée de l'embarquement. La première lorsque l'embarquement commence. Ensuite, il émet un "dernier appel" eviron 15 à 20 minutes avant le départ.</PAInfo>
+        <TechnologyTitle>Débloquer les annonces</TechnologyTitle>
+        <Technology>Vous aurez besoin de rechercher "Technologies" pour engager un CTO (Chef Officier de Technologie) afin de débloquer le système d'annonces.
+
+Pendant que vous attendez que la recherche soit faite, vous pouvez construire le bureau de votre futur CTO. Pendant le tutoriel, les recherches sont bien plus rapides qu'en temps normal !</Technology>
+        <TechnologyObjective>Recherchez "Technologie" dans l'onglet de recherche.</TechnologyObjective>
+        <CTO>Une fois que vous avez embauché un CTO et qu'il dispose d'un bureau, vous pourrez débloquer le système d'annonces.</CTO>
+        <CTOObjective>Embauchez un CTO et assurez vous qu'il ait un bureau.</CTOObjective>
+        <SpeakersTitle>Construire le système d'annonce</SpeakersTitle>
+        <Speakers>Des hauts parleurs relaieront les annonces à travers le terminal. Les passagers doivent être proches du haut-parleur, et dans la direction vers laquelle il émet, afin d'entendre les annonces. 
         
-As you are placing them, use the PA Speakers heatmap to see the area that they affect.</Speakers>
-        <SpeakersObjective>Place at least 4 speakers in areas most likely to be visited by passengers. Use the PA Speakers heatmap to see coverage.</SpeakersObjective>
-        <Amplifier>PA Systems use amplifiers to connect the speakers to a central electrical system.
+Lorsque vous placez les haut-parleurs, utilisez la heatmap PA speakers pour verifier les zones couvertes.</Speakers>
+        <SpeakersObjective>Placez au moins 4 haut-parleurs dans les zones les plus fréquemment visitées par les voyageurs. Utilisez la heatmap PA Speaker pour vérifier la couverture du système.</SpeakersObjective>
+        <Amplifier>Le système d'annonces utilise des amplificateurs pour connecter les haut-parleurs au système électrique central. 
 
-If you have more than 4 speakers or more than 4 gates, build a HD amplifier to handle the additional load.</Amplifier>
-        <AmplifierObjective>Drag an electrical zone room, and place an amplifier inside. Make sure it meets the requirements.</AmplifierObjective>
-        <Connect>You'll need to connect each speaker to the amplifier, by clicking on the amplifier, and selecting Connect To.
+Si vous avez plus de 4 haut-parleurs ou 4 portes d'embarquement, construisez un amplificateur HD pour supporter la charge additionnelle du système.</Amplifier>
+        <AmplifierObjective>Définissez une zone électrique et placez-y un amplificateur. Assurez vous que les conditions de fonctionnement de la zone et l'ampli soient remplies.</AmplifierObjective>
+        <Connect>Vous aurez besoin de connecter chaque haut-parleur avec l'amplificateur, en cliquant sur l'amplificateur et en sélectionnant "Connecter à".
 
-At the moment, your PA system will be broadcasting nothing! You can assign up to four gates that you want it to broadcast information about, by clicking on the amplifier and assigning each one.</Connect>
+Pour le moment, votre système est en ligne, mais n'a rien à annoncer ! Vous pouvez relier jusqu'à 4 portes d'embarquement au système, qui émettra alors les informations à leur sujet. Pour cela, cliquez sur l'amplificateur et assignez chacune des portes concernées.</Connect>
         <CompletedPATitle>Fueling Services</CompletedPATitle>
-        <CompletedPA>Your PA system should now be working!
+        <CompletedPA>Votre système d'annonces est maintenant complétement fonctionnel !
 
 Next, we'll look at fueling services.
 
