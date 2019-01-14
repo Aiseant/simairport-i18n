@@ -1,30 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Tutorial>
     <Titles>
-        <EasyTutorial1>The Basics of SimAirport</EasyTutorial1>
+        <EasyTutorial1>Les bases de SimAirport</EasyTutorial1>
         <Expansion>Large Airport Expansion</Expansion>
-        <Baggage>Baggage Systems</Baggage>
+        <Baggage>Le système de traitement des baggages</Baggage>
         <FuelPA>PA Systems and Fuel</FuelPA>
     </Titles>
-    <EndTutorial>Close</EndTutorial>
-    <NextButton>Next</NextButton>
-    <SkipObjective>Skip</SkipObjective>
+    <EndTutorial>Fermer</EndTutorial>
+    <NextButton>Suivant</NextButton>
+    <SkipObjective>Passer</SkipObjective>
     <EasyTutorial1>
-        <IntroductionTitle>Welcome to SimAirport!</IntroductionTitle>
-        <Introduction>This is the first of the easy tutorials.
+        <IntroductionTitle>Bienvenue à SimAirport!</IntroductionTitle>
+        <Introduction>Voici le premier des tutoriels. 
 
-This airport is Learnyville's gateway to the world. Its small terminal has the basics: transport, ticketing, security, a departure lounge, an aircraft gate, and baggage collection.
+Cet aéroport est la porte d'entrée de Learnyville sur le monde. Son terminal est petit mais comprend déjà tous les élèments de bases : un système de transport, les billeteries, la sécurité, un salon d'attente pour les voyageurs en partance, une porte d'embarquement et le tri des baggages. 
 
-The problem is they never finished building it!</Introduction>
-        <CameraMovement>Use WASD, the arrow keys, or move your cursor to the edges of the screen to move the camera. You can even hold down the middle mouse button and move your cursor.
-
-In the options screen, you can adjust how fast these controls move the camera.
-
-You can also change which keys do what commands.</CameraMovement>
-        <TutorialWindow>You can move the tutorial window by holding the left-mouse button and dragging it to a new position.
+Le problème, c'est qu'ils ne l'ont jamais achevé !</Introduction>
         
-Most windows can be dragged, and most also let you close them with the X button. This window can be minimized/maximized if you need it to take up less space.</TutorialWindow>
-        <TutorialWindowObjective>Drag the window around!</TutorialWindowObjective>
+        <CameraMovement>Utilisez QZSD (WASD si vous n'avez pas configuré votre clavier), les flèches de déplacements ou déplacez votre curseur aux bords de l'écran pour déplacer la caméra. Vous pouvez également maintenir le bouton central de votre souris et déplacer votre curseur.down the middle mouse button and move your cursor.
+
+Dans l'écran d'options, vous pouvez ajuster la sensibilité de la caméra.
+Vous pouvez aussi changer les touches la contrôlant. </CameraMovement>
+
+        <TutorialWindow>Vous pouvez déplacer la fenêtre du tutoriel en maintenant le clic gauche de votre souris et en la glissant vers sa nouvelle position.
+La plupart des fenêtres peuvent être déplacées, et la plupart peuvent également être closes via le bouton X. Cette fenêtre peut être réduite/augmentée si vous avez besoin qu'elle prenne moins de place.</TutorialWindow>
+        <TutorialWindowObjective>Déplacer la fenêtre !</TutorialWindowObjective>
+        
         <UserInterface>This complex simulation can be simple to understand if you take a few moments to look around the user interface.
 
 You have general stats at the top, time controls in the top right, various airport operations to the bottom left, and a selection of heatmaps to the right.
