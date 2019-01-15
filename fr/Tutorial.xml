@@ -268,31 +268,31 @@ Pour le moment, votre système est en ligne, mais n'a rien à annoncer ! Vous po
         <CompletedPATitle>Fueling Services</CompletedPATitle>
         <CompletedPA>Votre système d'annonces est maintenant complétement fonctionnel !
 
-Next, we'll look at fueling services.
+Maintenant, jetons un oeil au service de fourniture de carburant.
 
-Refueling planes helps your airport earn extra income, improve airline satisfaction ratings, and potentially get access to new contracts.</CompletedPA>
-        <FuelDepotTitle>Getting The Fuel</FuelDepotTitle>
-        <FuelDepot>Fuel is delivered once per day, to a depot where delivery trucks will deliver new fuel from outside of the airport.</FuelDepot>
-        <FuelDepotObjective>Build a fuel depot by the main road.</FuelDepotObjective>
-        <FuelTanks>Fuel is stored in fuel tanks. Large fuel tanks are available, but are very expensive. They need to be connected to the depot, and you can save on piping by building them close.
+Refaire le plein de carburant des avions permet à votre aéroport d'avoir de nouveaux revenus, d'augmenter les indices de satisfaction des compagnies aériennes et potentiellement de gagner de nouveaux contrats.</CompletedPA>
+        <FuelDepotTitle>Acheter le carburant</FuelDepotTitle>
+        <FuelDepot>Le kérosène est livré par des camions externes, une fois par jour, à un dépôt situé à l'exterieur de l'aéroport.</FuelDepot>
+        <FuelDepotObjective>Construisez un dépôt de carburant le long de la route principale.</FuelDepotObjective>
+        <FuelTanks>Le kérosène est stocké dans des réservoirs de carburant. Des grands réservoirs sont accessibles, mais coûtent très cher. Il est nécessaire de les connecter au dépôt de carburant, et vous pourrez économiser sur le prix des pipelines en construisant les réservoirs au plus près du dépôt.
+Vous pouvez voir dans quels tuyaux circule du carburant en fonction de leur couleur : rouge (vide) et vert (plein/connecté au dépôt).</FuelTanks>
+        
+        <FuelTanksObjective>Construisez au moins deux réservoirs de taille standard et connectez-les à votre dépôt.</FuelTanksObjective>
+        <RefuelingStationTitle>Du stockage jusqu'aux avions</RefuelingStationTitle>
+        <RefuelingStation>Les camions citernes iront à la station de ravitaillement pour faire le plein, en suivant les voies de navigation.</RefuelingStation>
+        <RefuelingStationObjective>Construisez une station de ravitaillement à côté des voies et connectez-la au réseau de carburant.</RefuelingStationObjective>
+        <Transport>Il faut désormais acheter les camions qui feront les pleins de carburant. Vous devrez d'abord construire un hangar, puis assigner des camions à la tâche depuis le menu du hangar.</Transport>
+        <TransportObjective>Assignez au moins 1 camion au transport de carburant</TransportObjective>
+        <BuyFuelTitle>Le commerce de kérosène</BuyFuelTitle>
+        <BuyFuel>Allez dans le menu Opérations et cliquez sur Service de carburant. Vous pouvez en acheter et en vendre. Si vous gardez l'oeil sur les prix du marché et êtes suffisamment astucieux, vous pouvez faire de gros profits !</BuyFuel>
+        <BuyFuelObjective>Achetez au moins 10000L de carburant. Vous pouvez les acheter en une fois, ou paramètrer un achat journalier automatique.</BuyFuelObjective>
+        <Active>Si le statut du service est "Non Actif", survolez-le pour afficher les problèmes rencontrés.
 
-You can see which pipes have fuel if they are red (empty) or green (full/connected to depot).</FuelTanks>
-        <FuelTanksObjective>Build at least two regular fuel tanks and connect them to the depot.</FuelTanksObjective>
-        <RefuelingStationTitle>From Storage to Planes</RefuelingStationTitle>
-        <RefuelingStation>Trucks will drive along the taxiway to a refuel station to fill up.</RefuelingStation>
-        <RefuelingStationObjective>Build a refuel station next to the taxiway, and connect it to the rest of the fuel network with pipes.</RefuelingStationObjective>
-        <Transport>It's time to buy the trucks that will do the work. You'll need to build a hangar first, and buy the truck from the hangar's menu.</Transport>
-        <TransportObjective>Buy at least one fuel truck.</TransportObjective>
-        <BuyFuelTitle>The Business of Fuel</BuyFuelTitle>
-        <BuyFuel>Go to Operations, and click Fuel Services. You can buy fuel and sell it. If you keep an eye on the market price and are shrewd enough, you can make a profit dealing fuel!</BuyFuel>
-        <BuyFuelObjective>Buy at least 10000 fuel. You can purchase this once, or set it to auto-purchase every day.</BuyFuelObjective>
-        <Active>If you find that the status of fuel services is "Not Active", try hovering over it to see what problems there are.
+Vous avez besoin de fixer une stratégie d'achat/vente. Essayez chacune d'entre elles; les informations correspondantes vous aideront à choisir la meilleure stratégie.</Active>
+        <MoreInfo>Assurez-vous de lire l'ensemble des informations en scrollant jusqu'au bas de la fenêtre Service de Carburant.
 
-You will need to set a price scheme. Try each one; there is information below each one to help you choose which pricing method is better.</Active>
-        <MoreInfo>Make sure to scroll down the fuel services window to see more information.
-
-In future, you may want to upgrade your aircraft gates to have fuel ports, which will more efficiently delivery fuel to your planes.</MoreInfo>
-        <FinaleTitle>Working Systems!</FinaleTitle>
-        <Finale>You now have working PA and fuel systems!</Finale>
+Envisagez d'améliorer vos portes d'embarquements avec des ports dédiés au carburant, via les Recherches, ce qui vous permettra à l'avenir d'assurer le plein des avions le plus efficacement possible.</MoreInfo>
+        <FinaleTitle>Tout est fonctionnel !</FinaleTitle>
+        <Finale>Félicitations, vous avez désormais un système d'annonces et de livraison de carburant complétement fonctionnels !</Finale>
     </FuelPA>
 </Tutorial>
