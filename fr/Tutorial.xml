@@ -3,7 +3,7 @@
     <Titles>
         <EasyTutorial1>Les bases de SimAirport</EasyTutorial1>
         <Expansion>Large Airport Expansion</Expansion>
-        <Baggage>Le système de traitement des baggages</Baggage>
+        <Baggage>Le système de tri des baggages</Baggage>
         <FuelPA>Système d'annonces des vols et fourniture de carburant</FuelPA>
     </Titles>
     <EndTutorial>Fermer</EndTutorial>
@@ -177,15 +177,15 @@ A second floor door connection is required for the larger gate sizes to connect 
 Before anything can be built on this floor, a foundation must be placed. That foundation must be placed above an existing one on the lower floor.</SecondFloorOptionalTask>
     </Expansion>
     <Baggage>
-        <IntroductionTitle>Baggage Systems</IntroductionTitle>
-        <Introduction>Welcome to the first advanced tutorial.
+        <IntroductionTitle>Le système de tri des baggages</IntroductionTitle>
+        <Introduction>Bienvenue dans le premier tutoriel avancé. 
             
-Baggage Systems are a must for large airports. This will allow for efficient loading and unloading of plane luggage, and swift deliveries to the Baggage Claim.</Introduction>
-        <SmallAirports>Do note that if you are running a small airport, you don't need a full baggage system. To handle baggage you just need ticketing desks, a Baggage Claim zone, and extra workmen.
+Tout grand aéroport se doit d'avoir un système de tri des baggages fonctionnel. Cela permet un chargement et déchargement optimal des avions, ainsi qu'une livraison rapide des valises au point de Baggage Claim.</Introduction>
+        <SmallAirports>Notez que dans le cas de petits aéroports, vous n'en aurez pas besoin initialement. Les bagages seront gérées grâce à quelques personnes en plus dans votre staff, qui les emmèneront des points de vente des billets jusqu'aux avions et des avions jusqu'au Bagage Claim.
 
-These workmen will drive baggage carts between the zones and gates to keep up with demand, and this will work fine for small airports.</SmallAirports>
-        <SystemIntroTitle>Using Multiple Floors</SystemIntroTitle>
-        <SystemIntro>Before you can start building a baggage system, you first have to get used to using multiple floors as demonstrated in the Large Airport Expansion tutorial. We'll briefly cover it here.</SystemIntro>
+Ces employés se déplacent avec des chariots à bagages, entre les différentes zones et les portes d'embarquement en fonction des besoins, et cela suffit largement pour des petits aéroports.</SmallAirports>
+        <SystemIntroTitle>Utiliser différents étages</SystemIntroTitle>
+        <SystemIntro>Avant de commencer à construire le système de tri des baggages, vous devez d'abord vous familiariser avec les différents étages, comme expliqué dans le tutoriel Large Airport Expansion. Nous allons brievement en parler ici.</SystemIntro>
         <MultipleFloors>Use KeyboardFunctions.LevelUp to go up a floor, and KeyboardFunctions.LevelDown to go down. Or, click on the arrows to the right of the screen. This follows the American system: there is no first floor after the ground floor.
 
 Anything you can do on the ground floor, you can do on the other floors (except terrain changes).</MultipleFloors>
