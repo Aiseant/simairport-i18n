@@ -11,7 +11,7 @@
     <SkipObjective>Passer</SkipObjective>
     <EasyTutorial1>
         <IntroductionTitle>Bienvenue à SimAirport!</IntroductionTitle>
-        <Introduction>Voici le premier des tutoriels. 
+        <Introduction>Voici le premier des tutoriels débutants. 
 
 Cet aéroport est la porte d'entrée de Learnyville sur le monde. Son terminal est petit mais comprend déjà tous les élèments de bases : un système de transport, les billeteries, la sécurité, un salon d'attente pour les voyageurs en partance, une porte d'embarquement et le tri des baggages. 
 
@@ -26,22 +26,23 @@ Vous pouvez aussi changer les touches la contrôlant. </CameraMovement>
 La plupart des fenêtres peuvent être déplacées, et la plupart peuvent également être closes via le bouton X. Cette fenêtre peut être réduite/augmentée si vous avez besoin qu'elle prenne moins de place.</TutorialWindow>
         <TutorialWindowObjective>Déplacer la fenêtre !</TutorialWindowObjective>
         
-        <UserInterface>This complex simulation can be simple to understand if you take a few moments to look around the user interface.
+        <UserInterface>Cette simulation, bien que complexe, peut être appréhendée facilement si vous prenez un moment pour découvrir l'interface utilisateur.
 
-You have general stats at the top, time controls in the top right, various airport operations to the bottom left, and a selection of heatmaps to the right.
+Tout en haut, on trouve les statistiques générales. En haut à droite les contrôles du temps, plusieurs opérations en bas à gauche et une selection de heatmaps à droite.
 
-Press escape to close any top window (this will not work on the tutorial window).</UserInterface>
-        <ConstructIntroTitle>The Foundations of Construction</ConstructIntroTitle>
-        <ConstructIntro>One of the most important aspects of SimAirport is construction.
+            Appuyez sur Echap pour fermer n'importe quelle fenêtre (cela ne fonctionne pas sur la fenêtre du tutoriel).</UserInterface>
+       
+        <ConstructIntroTitle>Les fondements de la construction</ConstructIntroTitle>
+        <ConstructIntro>Un des aspects les plus importants de SimAirport est la construction. 
 
-Objects and structures must be built by workmen. All inside rooms must be built on foundations, and once completed, any indoor items can be placed in there.</ConstructIntro>
-        <Hire4Workmen>When you designate an area for construction, the building materials are automatically ordered.
+            Les objets et les structures doivent être construits par des ouvriers. Tous les espaces intérieurs doivent être construits sur des fondations, et une fois finis, on pourra y placer les objets d'intérieur.</ConstructIntro>
+        <Hire4Workmen>Quand vous ordonnez la construction d'une zone, les matériaux nécessaires sont automatiquement commandés.
 
-Materials are delivered by trucks down the main road, to the Delivery zone (south west). The materials are then collected by Workmen to be placed around the airport. Any spare materials, such as from cancelled projects, are put into storage.</Hire4Workmen>
-        <Hire4WorkmenObjective>Hire at least 6 Workmen (in total), available in the staff hub (KeyboardFunctions.StaffHub).</Hire4WorkmenObjective>
-        <DragFoundation>From the Build Menu, select Construction, and then select Foundation. Not sure what a tool or object is? You can hover over it for a description.
-        
-You will need to wait for the workers to build it, but you can speed up time with the controls in the top right corner of the screen, or by pressing 1/2/3 for speeds and SPACE to pause.</DragFoundation>
+            Les matériaux sont livrés par camions via la route principale, jusqu'à la Zone de Livraison (sud ouest). Les matériaux sont alors récupérés par les Ouvriers qui les emmeneront dans l'aéroport. Tous les matériaux en trop, commandés pour des projets annulés par exemple, sont mis en stockage.</Hire4Workmen>
+        <Hire4WorkmenObjective>Embauchez au moins 6 Ouvriers (au total), disponibles via le menu du personnel (KeyboardFunctions.StaffHub).</Hire4WorkmenObjective>
+        <DragFoundation>Depuis le menu de construction, selectionnez Construction puis Fondation. Si vous n'êtes pas sur de ce à quoi correspond un objet ou un outil, vous pouvez en avoir une description en le survolant.
+
+Vous devez attendre que les Ouvriers les construisent, mais vous pouvez accelerer le temps avec les contrôles en haut à droite de l'écran, ou avec les touches 1/2/3 qui permettent de régler la vitesse (Espace pour mettre en pause).</DragFoundation>
         <DragFoundationObjective>Drag the foundation over the striped area next to the departure lounge. Made a mistake? Right click the project to cancel.</DragFoundationObjective>
         <BuildingMistakes>Not only can you cancel a project during construction by right-clicking, you can also remove foundations using the Demolish tool (KeyboardFunctions.DemolishTool).
 
